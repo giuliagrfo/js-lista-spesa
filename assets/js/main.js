@@ -5,7 +5,8 @@ const list = [
     'Pasta',
     'Pane',
     'Latte',
-    'Caffè'
+    'Caffè',
+    'Uova'
 ]
 
 // stampo gli elementi dell'array con while loop
